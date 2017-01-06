@@ -1,0 +1,7 @@
+Demo可以直接运行，但是如果想把文件成功上传到bucket里，需要修改NOSSDKDemo/ViewController.m文件中doUpload:方法中的bucket，accessKey，secretKey变量，如下：
+    NSString *bucket = @"lc-test";
+    NSString *accessKey = @"xxx";
+    NSString *secretKey = @"xxx";
+bucket设置为自己的一个桶名，accessKey和secretKey为公钥密钥。
+
+NOSSDKDemo/libnos ios SDK.a文件是SDK源码编译后的、支持模拟器和真机运行的静态库文件。在实际工程中，我们建议用户直接使用我们的SDK源码，方便调试和理解。

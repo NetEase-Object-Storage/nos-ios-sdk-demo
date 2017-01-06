@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B949B2E27EDB250A977D36A352560C25E82B6C0D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "856FAF84C7053E2C5A52B4E7A79116494395AE54" : 0,
+    "B949B2E27EDB250A977D36A352560C25E82B6C0D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D72A1DEA-384A-4FF3-B57A-730125155696",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "856FAF84C7053E2C5A52B4E7A79116494395AE54" : "NOSSDKDemo",
+    "B949B2E27EDB250A977D36A352560C25E82B6C0D" : "nos-ios-sdk-demo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NOSSDKDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NOSSDKDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.hz.netease.com:22222\/laidongmin\/NOSSDKDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "856FAF84C7053E2C5A52B4E7A79116494395AE54"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.hz.netease.com:22222\/nos\/nos-ios-sdk-demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B949B2E27EDB250A977D36A352560C25E82B6C0D"
+    }
+  ]
+}

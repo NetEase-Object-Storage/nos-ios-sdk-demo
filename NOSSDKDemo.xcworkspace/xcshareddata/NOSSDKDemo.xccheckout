@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D72A1DEA-384A-4FF3-B57A-730125155696</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NOSSDKDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>856FAF84C7053E2C5A52B4E7A79116494395AE54</key>
+		<string>ssh://git.hz.netease.com:22222/laidongmin/NOSSDKDemo.git</string>
+		<key>B949B2E27EDB250A977D36A352560C25E82B6C0D</key>
+		<string>ssh://git.hz.netease.com:22222/nos/nos-ios-sdk-demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NOSSDKDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>856FAF84C7053E2C5A52B4E7A79116494395AE54</key>
+		<string>../../NOSSDKDemo</string>
+		<key>B949B2E27EDB250A977D36A352560C25E82B6C0D</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.hz.netease.com:22222/nos/nos-ios-sdk-demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B949B2E27EDB250A977D36A352560C25E82B6C0D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B949B2E27EDB250A977D36A352560C25E82B6C0D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>nos-ios-sdk-demo</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>856FAF84C7053E2C5A52B4E7A79116494395AE54</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NOSSDKDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
