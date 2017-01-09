@@ -37,15 +37,14 @@ NOSUploadManager *upManager = nil;
     NSLog(@"%@", dir);
     NOSFileRecorder *file = [NOSFileRecorder fileRecorderWithFolder:dir error:&error];
     
-//    NOSConfig *conf = [[NOSConfig alloc] initWithLbsHost: @"http://lbs-eastchina1.126.net/lbs"//http://wanproxy.127.net"
-//                                           withSoTimeout: [_soTimeoutText.text intValue]
-//                                   //withConnectionTimeout: [_connectTimeoutText.text intValue]
-//                                     withRefreshInterval: [_monitorInterval.text intValue]
-//                                           withChunkSize: [_chunkSizeText.text intValue] * 1024
-//                                     withMoniterInterval: [_monitorInterval.text intValue]
-//                                          withRetryCount: [_retryCountText.text intValue]];
+    NOSConfig *conf = [[NOSConfig alloc] initWithLbsHost: @"https://lbs-eastchina1.126.net/lbs"
+                                           withSoTimeout: [_soTimeoutText.text intValue]
+                                   //withConnectionTimeout: [_connectTimeoutText.text intValue]
+                                     withRefreshInterval: [_monitorInterval.text intValue]
+                                           withChunkSize: [_chunkSizeText.text intValue] * 1024
+                                     withMoniterInterval: [_monitorInterval.text intValue]
+                                          withRetryCount: [_retryCountText.text intValue]];
 
-    NOSConfig *conf = [[NOSConfig alloc] init];
     [NOSUploadManager setGlobalConf:conf];
     
     if (error) {
