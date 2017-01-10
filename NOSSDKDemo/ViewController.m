@@ -133,7 +133,6 @@ NOSUploadManager *upManager = nil;
                                                  }];
     
     if (isHttps) {
-        NSLog(@"https : futh");
         [upManager putFileByHttps: localFileName bucket:bucket key:object
                             token: token
                          complete: ^(NOSResponseInfo *info, NSString *key, NSDictionary *resp) {
