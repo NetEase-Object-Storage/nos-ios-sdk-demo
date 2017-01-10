@@ -37,7 +37,7 @@ NOSUploadManager *upManager = nil;
     NSLog(@"%@", dir);
     NOSFileRecorder *file = [NOSFileRecorder fileRecorderWithFolder:dir error:&error];
     
-    NOSConfig *conf = [[NOSConfig alloc] initWithLbsHost: @"https://lbs-eastchina1.126.net/lbs"
+    NOSConfig *conf = [[NOSConfig alloc] initWithLbsHost: @"https://lbs-eastchina1.126.net"
                                            withSoTimeout: [_soTimeoutText.text intValue]
                                    //withConnectionTimeout: [_connectTimeoutText.text intValue]
                                      withRefreshInterval: [_monitorInterval.text intValue]
